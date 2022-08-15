@@ -1,0 +1,63 @@
+body{
+    background-color: black;
+}
+
+.pagina{
+    margin: auto;
+    width: 45%;
+    background-color: white;
+    border-radius: 15px;
+    padding: 30px;
+}
+.nome{
+    text-align: center;
+    font-size: larger;
+    text-decoration: underline;
+}
+
+.dadosAluno{
+    margin-top: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.dadosAluno img{
+    width: 120px;
+    margin-right: 20px;
+}
+
+.dados{
+    background-color: rgb(201, 199, 199);
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: black;
+}
+
+.experiencia{
+    padding-top: 10%;
+    display: flex;
+    justify-content: center;
+}
+
+.experiencia span{
+    margin: 5px;
+    background-color: rgb(201, 199, 199);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.idiomas {
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    width: 46.5%;
+    justify-content: center;
+    background-color: rgb(201, 199, 199);
+    border-radius: 5px;
+}
+
+
+
+
+
